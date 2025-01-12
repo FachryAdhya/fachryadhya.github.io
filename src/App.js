@@ -4,7 +4,7 @@ import React, { useEffect } from "react";
 
 export default function App() {
   useEffect(() => {
-    document.title = "To: Astrid Cintya Ramadhani";
+    document.title = "To: Maluf";
   }, []);
 
   return (

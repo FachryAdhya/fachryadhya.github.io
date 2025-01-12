@@ -28,12 +28,12 @@ export default () => (
         <br />I also want to take this moment to say sorry. I know there have
         been times when I haven't put in the effort I should have, and for that,
         I am truly sorry. You deserve so much more than I've given, and I want
-        you to know that I am committed to doing better every day. You deserve
-        to feel loved, appreciated, and valued - always.
+        you to know that I am committed to doing better every day because you deserve
+        the best.
         <br />
-        <br />I love you more than words can express.
+        <br />I love you infinity.
       </p>
-      <img className="cardImg" src={require("./img2.png")} />
+      <img className="cardImg" src={require("./img1.png")} />
       <p className="name">
         Forever yours,
         <br />
